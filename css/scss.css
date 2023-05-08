@@ -1,0 +1,21 @@
+.block {
+  background-color: black;
+  width: 100%;
+  height: 100px;
+}
+.block .links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  font-size: 30px;
+  gap: 30px;
+}
+.block .links a {
+  color: white;
+  text-decoration: none;
+}
+.block .links a:hover {
+  color: green;
+  text-decoration: underline;
+}/*# sourceMappingURL=scss.css.map */
